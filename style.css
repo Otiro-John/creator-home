@@ -286,6 +286,7 @@ li:hover ul {
         font-size: 40px;
     }
     .form-container form input {
+        width:400px;
         font-size: 16px;
     }
     .form-container form button {
